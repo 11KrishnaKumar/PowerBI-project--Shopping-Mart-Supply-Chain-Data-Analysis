@@ -15,6 +15,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 (c) Ontime in Full(OTIF)
 
 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥:-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png)?raw=true)
 
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭:-
 
