@@ -13,16 +13,17 @@ The Supply Chain team decided to use a standard approach to measure the service 
 (a) On-Time delivery(OT)
 (b) In-Full delivery(IF)
 (c) Ontime in Full(OTIF)
+(d) Line Fill Rate(LIFR)
+(e) Volume Fill Rate(VOFR)
 
 ## **Screenshots of Power BI  Final Report :-**
 
 ***𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥***
+![Data Model](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png?raw=true)
 
-![Data Model]](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png)
-
-𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭:-
 
 ***Dashboard Screenshot***
+![Dashboard](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/Dashboard.jpg?raw=true)
 
 𝐊𝐞𝐲-𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐝𝐫𝐚𝐰𝐧:-
 
