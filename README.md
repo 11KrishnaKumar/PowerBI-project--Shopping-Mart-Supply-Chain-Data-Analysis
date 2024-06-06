@@ -32,6 +32,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## **Screenshots of Power BI  Final Report :-**
 
 ***𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥***
+
 ![Data Model](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png?raw=true)
 
 
