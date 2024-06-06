@@ -16,14 +16,6 @@ The Supply Chain team decided to use a standard approach to measure the service 
 (d) Line Fill Rate(LIFR)
 (e) Volume Fill Rate(VOFR)
 
-## **Screenshots of Power BI  Final Report :-**
-
-***𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥***
-![Data Model](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png?raw=true)
-
-
-***Dashboard Screenshot***
-![Dashboard](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/Dashboard.jpg?raw=true)
 
 𝐊𝐞𝐲-𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐝𝐫𝐚𝐰𝐧:-
 
@@ -35,4 +27,15 @@ The Supply Chain team decided to use a standard approach to measure the service 
 (f) Ghee, curd and butter products are most delayed to deliver.
 (g) There is no noticeable improvements in any of the key metrics in the last few months
 (h) There is a huge gap in IF% for most of the customers. Is it because of less production?
+
+
+## **Screenshots of Power BI  Final Report :-**
+
+***𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥***
+![Data Model](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png?raw=true)
+
+
+***Dashboard Screenshot***
+![Dashboard](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/Dashboard.jpg?raw=true)
+
 
